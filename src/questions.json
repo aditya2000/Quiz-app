@@ -1,0 +1,43 @@
+{
+    "title": "Quiz questions",
+    "questions": [
+        {
+            "question": "What the fuck?",
+            "answer": "fuck you",
+            "level": "1",
+            "hints": [
+                {
+                    "text": "the fuck"
+                },
+                {
+                    "text": "the duck"
+                },
+                {
+                    "text": "the luck"
+                },
+                {
+                    "text": "the super fuck"
+                }
+            ]
+        },
+        {
+            "question": "What the kick?",
+            "answer": "fuck you",
+            "level": "2",
+            "hints": [
+                {
+                    "text": "the fuck"
+                },
+                {
+                    "text": "the duck"
+                },
+                {
+                    "text": "the luck"
+                },
+                {
+                    "text": "the super fuck"
+                }
+            ]
+        }
+    ]
+}
